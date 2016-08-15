@@ -1,5 +1,6 @@
 {
   "name": "mantra-map",
+  "homepage": "https://nezaj.github.io/MantraHeatmap",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
